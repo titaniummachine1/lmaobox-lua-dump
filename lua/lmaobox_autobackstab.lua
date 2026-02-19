@@ -53,7 +53,8 @@ local function IsBehindAndFacingEntity(plocal, pTarget, dir, targetForward)
 	local isLookingAtTarget = posVsLocalView > 0.5
 	local isFacingBack = viewAnglesDot > -0.3
 
-	--print(string.format("isBehind=%s (%.2f), isLookingAtTarget=%s (%.2f), isFacingBack=%s (%.2f)", isBehind, posVsTargetView, isLookingAtTarget, posVsLocalView, isFacingBack, viewAnglesDot))
+	--print(string.format("isBehind=%s (%.2f), isLookingAtTarget=%s (%.2f), isFacingBack=%s (%.2f)",
+	--	isBehind, posVsTargetView, isLookingAtTarget, posVsLocalView, isFacingBack, viewAnglesDot))
 
 	return (isBehind and isLookingAtTarget and isFacingBack)
 end
@@ -117,6 +118,7 @@ local function CreateMove(uCmd)
 	end
 
 	local swing = pweapon:DoSwingTrace()
+
 	if
 		swing
 		and swing.entity ~= nil
