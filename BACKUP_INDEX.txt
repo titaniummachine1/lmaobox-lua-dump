@@ -1,0 +1,384 @@
+﻿Backup generated: 2026-02-19 01:25:18
+Source: C:\Users\Terminatort8000\AppData\Local\z Lbox Useful\z lmaobox lua
+
+Files:
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\_PlayerList.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\3d circles.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\a Script to set increased priority to all known cheaters (d3fc0n6's github repo) (1).lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_AA.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_AccurateMove.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_Aimbot_Silent_Smooth.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_autoTrickstab.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_autovote.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_backtrack.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_backtrack2.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_base64Imagetest.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_Better_Duck_Jump.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_Cond_Cancel.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_FixVmOveride.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\a_fps_counter.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_GetMySentry.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\a_hitboxes.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_Humanized_delay_TR.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_HVH_tools.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_instant_Unscope.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_JumpBub2.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_JumpBug.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_KDCalc.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_lagometer.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_line.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_Melee_Backtrack.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_Melee_Latency.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_Movement.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_MuquaMiscTools.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_NeonHat.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_Niqht Simple Dmg Logger.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_Ping_Reducer.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_PredExample.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_projectile camera.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_Queue.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_Range_circle.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_resolver.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_resolver_solver.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_SEOwnedDE esp.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_server_voter (1).lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_server_voter.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_SmartJump.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_standstillDummy.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_Swing_Prediction (3).lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_Swing_Prediction.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_test.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_trajectories.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_Trajectories2.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_Trajectory_Visualizer.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_triggerbot.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_trimpingHelper.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_UNZoom.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A_warp.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\a_Weapon_Menager.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\aa arrows.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Accuracy_Indicator.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\accurateFovCircle.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\AdvancedChams.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\AdvancedHitboxDraw.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Aimbot (3).lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Aimbot (4).lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Aimbot (7).lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\aimbot legit poc.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Aimbot.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Aimbot_Update.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Aimbot2.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\aimbot3.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\airpogo.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\airpogoOriginal.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\alib.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\A-Movement_Research.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\AngleExtrapolation.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Antiaim.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\anticheat.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\AntyAim.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\aspect ratios.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\autmedRelay.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\auto ariblast.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\auto backstab.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\auto holiday punch.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\auto medic.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\auto queue.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Auto removeSappers.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\auto sticky delay.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Auto switch to medigun.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Auto Trickstab.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\auto vote.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\auto_engi.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Auto_tricsktab_Old.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\AUTO_Wallstuck.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\AutoAxtinguisher.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\autoBackstab.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\autoBackstab_Silent.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\autobotekikc.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\autobuild.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\AutoFollowBot.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\autohealarrow.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\AutoKnife.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\AutoMedic.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\AutoPeek.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\AutoRecharge.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\autoRevive.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\autovote.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\AutoVotekick.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\autoweaponswitch.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\AutoZoomSmart.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\baseplayer.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\basic autodeadringer.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Benchmark.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\binarytoimage.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Binds.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\bit bugger edperiemtts.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\blast jumping cond indicator.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\BoneMatrix.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\boringlua.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\BuildBot.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\CatbotMark.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\chams.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\change aim with weapon.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\change glow colors.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Charge_controll.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\chat prefixes.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\ChatCensor.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\chatLogger.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Cheater_Detection.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Cheater_Detection_Old.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\circledraw.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\class_priority.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\cli event based.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\cloack helper.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\closetewwww.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\controller helper.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\cool esp.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\cool functions.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\crit.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\critexample.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\CritIndicator.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\CrossbowReload.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\crosshair.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\custom antiaim.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\custom hud.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\custom team based colours.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\CustomDT.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\cvar.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Cvar_AND_CoMMAND.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\DebugTracer.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\defaultPriority.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Defualt_Lua.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\DemoFaker.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\demoman_trajectories.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Detections.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\disableDoors.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\documentation.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\drawboned mf.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\DrawBones.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\DrawCircle.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\drawHitbox.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\DrawHitboxes.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\DrawHitboxesPlayersonly.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\DT-Bar.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\dvb0.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\E_NetMessageTypes.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Edge Jump (POC) .lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\edgestop.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\EnemyInFOV.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\entityPosRevealer.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\ESP Toggle.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Esp.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\espbuilder.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Event_Parser.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Example script2.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\example.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\EXAMPLE_SCRIPT.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\exploitsheel.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\FakeGoldenPan.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\fallpred.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\fast_accel.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\FileBrowser.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\fine shot m8.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\fixedautowarpNOmenu.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\flareGunJump.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Fog modulation.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\FollowBot Auto Unzoom.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\fonttest.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\fov weapons.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\fpsCounter.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Freecam.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\FreeMenu.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\garlic-bread.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\gaysense.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\GetMySentry.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\glow copy.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\glow effect.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\glow.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\gradient backtrack.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\gradient example.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\gui lib.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\gunspybot.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\hb.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\headESP_beta.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\heallogv2.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\heatmaker charge.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\HitchanceProjectile.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\hitlogv2.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Hologram_Indicators.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\hook stuff.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Hvh_Tools.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\ImMenu — kopia.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\ImMenu.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Indicators.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\inffinite sandwitch.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\InstantStop.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\killsay.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\laggy animations.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\latest trajectory visualzier.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Legit AutoBackstab.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\line tracer.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Lmaobot (1).lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Lmaobot.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\lmaobotv5.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\lnxLib.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Loading.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Loadout_Info.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Loadout_Info_v2.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\LoadoutInfo.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\localLuaDebug.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\LookinGT.at.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\LoudCloack.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\low-health-esp.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\lowhealthpriorityesp.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Lua_Loader.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\lua_runner_helper.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\luanormalizationtest.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Machina Penetrate.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\MC-Healthbar.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\med range.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\MedBot.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\medieval camera.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\medigunbot.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Melee_Tools.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Menu.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\menudemo1.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Menu-Example.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\minimal_crash_test.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Misc Tools.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\misc_tools-Mod.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Misc-Tools.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\money printer.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Movement.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\mvm_automoney.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Nearby_Entity_Info.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\NeonHat.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\neverlose watermark.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\NEW_ARC_TRAJECTORIES.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\night mode.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\nmenu.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\nmenu-meta.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\NoHitscanAim.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\noisemaker.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\NoisemakerAfterKill.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\noName.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\norick.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Normalizetest.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\NoWaterHop.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Offscreen info.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\old autopeek.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\optimal_money_route_v3.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\outline.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\outline2.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\PAimbot.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\party_Healper.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\PhlogActivator.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\PingReducer.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\PingUtils.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\player warning copy.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\player warning.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\player.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Player_trail.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Player_trail_gradient.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\PlayerList.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\playersim.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\PlayerSorter.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\polygontest.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Prediction.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\prediction_visualizer.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Predictive_Assistance.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Prefab-Script.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\priority 10 on medic call.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\priority hitsounds.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\PriorityAdder.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Profiler.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\projaimbot (5).lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\projaimbot.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\projectile cam 2.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\projectile camera.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\projectile esp.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Projectile_Visualizer.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\ProjectileArcVisualize.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\proof.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\rain.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\RangeCircle.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Recorder.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\recreated menu.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Release misc tools.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Resolver.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\rgb.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\sakura.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\SayIP.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\scope lines.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\SearchBar.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\sentry.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\SentryBulletJump_v2.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\sentryRider.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\SentryView.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\SEOwnedDE esp.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Server_voter.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\show HitBoxes when hit.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\sim test (2).lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\simple_test.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\simpleesp.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\simtest.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\skeleton esp.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\slowwalk.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\smooth dash 2.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\smooth dash copy.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\smooth dash.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\sniper charge levelget.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\sniper rifle dmg.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\sniper thing.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\sniper zoom.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\snow.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\sourcenav.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\spawnLocation.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\spectator list lite.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\spectator list.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\splash radius.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\SplashbotPROOF.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\SplashbotPROOF_FIXED.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\SplashbotPROOF222.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\spy_exploit.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\spy_warning.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Spycicle_Activator.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\sticky range.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\StrCMDex.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\stream snipe.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\summary.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\swingpredbeta.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\sydney extinguisher.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\tempCodeRunnerFile.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\test.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\test.lua.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\test_project.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\texture_handler.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\tf2_BetterPlayerSorter.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\tf2_sorterrewritten.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\thirdperson offset.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\time.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\TimMenu.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\toggleAimPosition.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\tracers.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\transparent chams.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\transparent doors.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Trigger Bot.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\trimping helper.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\TroldierWarning.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\UI.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\unload_profiler.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Utils.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\viewmodel outline.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Visible_only_esp.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\VIsualizeArcTrajectories.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\votereveal.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\WalkToTeleporter.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Wallstuck_freeze.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\wallstuck-indicator.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\warp.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\Weapon_Manager.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\world modulation.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\x88menu.lua
+C:\Users\Terminatort8000\AppData\Local\lmaobox-lua-dump\lua\yes.lua
