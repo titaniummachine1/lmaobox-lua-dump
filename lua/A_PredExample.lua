@@ -104,7 +104,7 @@ local function convertPercentageToRGB(percentage)
     return math.max(0, math.min(255, value))
 end
 
--- Draw predicted path
+-- Draw predicted path cuz why
 local function doDraw()
 local greenValue = convertPercentageToRGB(hitChance)
 local blueValue = convertPercentageToRGB(hitChance)
